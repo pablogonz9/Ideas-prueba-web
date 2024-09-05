@@ -1,0 +1,7 @@
+{
+    "functions": {
+      "api/save-text.js": {
+        "maxDuration": 30
+      }
+    }
+  }
