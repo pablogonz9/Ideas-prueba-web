@@ -1,6 +1,6 @@
 {
     "functions": {
-      "api/save-text.js": {
+      "pages/api/save-text.js": {
         "maxDuration": 30
       }
     }
